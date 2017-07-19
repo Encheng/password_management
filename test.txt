@@ -1,1 +1,3 @@
 first commit on github.
+
+markdown用法：http://xianbai.me/learn-md/article/about/readme.html
