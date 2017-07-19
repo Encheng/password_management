@@ -4,32 +4,12 @@
 
 1. 密碼分層別類
 
-<table>
-    <tr>
-        <td>網站（WEB）</td>
-        <td>帳號、密碼</td>
-    </tr>
-    <tr>
-        <td>資料庫（DB）</td>
-        <td>帳號、密碼</td>
-    </tr>
-    <tr>
-        <td>Office金鑰</td>
-        <td>金鑰</td>
-    </tr>
-    <tr>
-        <td>金流</td>
-        <td>帳號、密碼</td>
-    </tr>
-    <tr>
-        <td>設備（防火牆、NAS）</td>
-        <td>帳號、密碼</td>
-    </tr>
-    <tr>
-        <td>User電腦ID</td>
-        <td>帳號、密碼</td>
-    </tr>
-</table>
+|網站（WEB）        |帳號、密碼|
+|資料庫（DB）       |帳號、密碼|
+|Office金鑰         |金鑰      |
+|金流               |帳號、密碼|
+|設備（防火牆、NAS）|帳號、密碼|
+|User電腦ID         |帳號|
 
 2. 密碼需嚴謹加密
 
