@@ -32,4 +32,4 @@
 
 #### 系統流程圖：
 
-
+![image](https://github.com/Encheng/password_management/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.png)
